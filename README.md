@@ -1,8 +1,8 @@
-# Yo.
+# Yo
 
-Ex. 1C Senior Developer.
+Ex-1C Senior Developer
 
-## Stack.
+## Stack
 - 1C
 - SQL
 - HTTP APIs
@@ -11,3 +11,4 @@ Ex. 1C Senior Developer.
 - Rails
 
 ## Coming soon.
+Golang backend
