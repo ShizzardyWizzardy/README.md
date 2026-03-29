@@ -1,26 +1,13 @@
-# hi
+# Yo.
 
-ex-1c dev who didn't get stuck there
+Ex. 1C Senior Developer.
 
-## stack
+## Stack.
 - 1C
 - SQL
 - HTTP APIs
 - Elasticsearch / Hazelcast
 - Bitrix (PHP)
-- Go
+- Rails
 
-## about
-switched to backend and kept moving.  
-focused on real systems: integrations, data flows, services.
-
-## current
-- building a backend in Go
-
-## approach
-- simple > complex
-- working > perfect
-- no bullshit
-
-## notes
-code > talk
+## Coming soon.
