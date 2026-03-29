@@ -1,26 +1,26 @@
-# Hi there.
+# hi
 
-## About me
-Former 1C developer with experience in backend integrations and data processing.  
-Currently rebuilding my stack and exploring modern backend technologies.
+ex-1c dev who didn't get stuck there
 
-## Skills
-- 1C (Enterprise development)
-- SQL (data modeling, queries, optimization)
-- Hazelcast / Elasticsearch
-- Bitrix (integration with 1C, including PHP)
-- Ruby on Rails (basic, one project in progress)
+## stack
+- 1C
+- SQL
+- HTTP APIs
+- Elasticsearch / Hazelcast
+- Bitrix (PHP)
+- Go
 
-## Experience Highlights
-- Built and maintained integrations between 1C and external services
-- Worked with high-load data exchange via HTTP APIs
-- Implemented search and caching solutions using Elasticsearch and Hazelcast
-- Integrated 1C with Bitrix-based systems
+## about
+switched to backend and kept moving.  
+focused on real systems: integrations, data flows, services.
 
-## Current Focus
-- Refreshing backend development skills
-- Working on small practical projects
-- Exploring modern tools and architectures
+## current
+- building a backend in Go
 
-## Projects
-Projects will be added and updated over time.
+## approach
+- simple > complex
+- working > perfect
+- no bullshit
+
+## notes
+code > talk
